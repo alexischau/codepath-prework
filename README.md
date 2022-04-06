@@ -1,53 +1,22 @@
-# Pre-work - *Name of App Here*
+# Hello Website (blank)
 
-**Name of your app** is a tip calculator application for iOS.
+This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
 
-Submitted by: **Your Name Here**
+## What's in this project?
 
-Time spent: **X** hours spent in total
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-## User Stories
+← `index.html`: This is the main HTML page for your site.
 
-The following **required** functionality is complete:
+← `style.css`: CSS files add styling rules to your content.
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
 
-The following **optional** features are implemented:
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+## You built this with Glitch!
 
-The following **additional** features are implemented:
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/dp7M0Eu.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
