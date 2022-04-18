@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![](https://i.imgur.com/gMNdSSc.gif)
+![](https://i.imgur.com/stcD15V.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
