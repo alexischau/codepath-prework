@@ -116,7 +116,7 @@ function playClueSequence() {
 
 function loseGame() {
   stopGame();
-  alert("Game Over. You lost.");
+  alert("Game Over. You lost. You got " + progress + " correct.");
 }
 
 function winGame() {
@@ -142,7 +142,7 @@ function guess(btn) {
       guessCounter++;
     }
   } else {
-    if (incorrectGuesses == 3) {
+    if (incorrectGuesses == 2) {
       loseGame();
     }
     incorrectGuesses += 1;
