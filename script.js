@@ -5,21 +5,20 @@ const nextClueWaitTime = 1000; //how long to wait before starting playback of th
 
 //Global Variables
 var pattern = [
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
-  Math.floor(Math.random() * 7),
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
+  Math.floor(Math.random() * 6) + 1,
 ];
 var progress = 0;
 var gamePlaying = false;
